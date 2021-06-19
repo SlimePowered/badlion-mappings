@@ -1,0 +1,6 @@
+CLASS net/badlion/a/D
+	FIELD a uuid Ljava/util/UUID;
+	FIELD b manager Lnet/badlion/a/C;
+	METHOD <init> (Lnet/badlion/a/C;Ljava/util/UUID;)V
+		ARG 1 manager
+		ARG 2 uuid

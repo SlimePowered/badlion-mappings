@@ -1,0 +1,5 @@
+CLASS net/badlion/a/mY
+	FIELD w mod Lnet/badlion/a/qc;
+	METHOD <init> (Lnet/badlion/a/mZ;Ljava/lang/String;Ljava/lang/String;Lnet/badlion/a/qc;)V
+		ARG 2 text
+		ARG 4 mod

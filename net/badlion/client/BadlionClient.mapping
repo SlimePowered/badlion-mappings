@@ -5,5 +5,7 @@ CLASS net/badlion/a/dc net/badlion/client/BadlionClient
 	FIELD b gson1 Lcom/google/gson/Gson;
 	METHOD a debug (Ljava/lang/String;)V
 		ARG 0 debug
+	METHOD a json (Lnet/badlion/a/dc;)Lnet/badlion/a/dr;
+		ARG 0 client
 	METHOD k getBadlionMinecraftVersion ()Lnet/badlion/a/DZ;
 	METHOD m getSettingsJson ()Lnet/badlion/a/dr;

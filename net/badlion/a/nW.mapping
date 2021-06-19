@@ -1,0 +1,4 @@
+CLASS net/badlion/a/nW
+	FIELD c teamspeakSocket Ljava/net/Socket;
+	FIELD d printWriter Ljava/io/PrintWriter;
+	FIELD e teamspeakThread Ljava/lang/Thread;

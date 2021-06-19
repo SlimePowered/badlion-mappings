@@ -1,0 +1,2 @@
+CLASS net/badlion/clientcommon/util/C net/badlion/clientcommon/util/WrappedMutableBoolean
+	FIELD a value Ljava/lang/Boolean;

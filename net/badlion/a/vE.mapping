@@ -1,0 +1,2 @@
+CLASS net/badlion/a/vE
+	FIELD a ffmpegLocation Ljava/lang/String;

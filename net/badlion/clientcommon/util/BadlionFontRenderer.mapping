@@ -1,0 +1,9 @@
+CLASS net/badlion/clientcommon/util/d net/badlion/clientcommon/util/BadlionFontRenderer
+	FIELD c font0 Lnet/badlion/a/pp;
+	FIELD d font1 Lnet/badlion/a/pp;
+	FIELD e font2 Lnet/badlion/a/pp;
+	FIELD f fontData0 Lnet/badlion/a/pp;
+	FIELD g fontData1 Lnet/badlion/a/pp;
+	FIELD h fontData2 Lnet/badlion/a/pp;
+	METHOD a render (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;)V
+	CLASS a TextType
