@@ -1,0 +1,7 @@
+CLASS net/badlion/a/Gt net/badlion/a/ModContainer
+	METHOD <init> (Z)V
+		ARG 1 disabled
+	METHOD a getExtraData ()Lcom/google/gson/JsonObject;
+	METHOD a setExtraData (Lcom/google/gson/JsonObject;)V
+		ARG 1 extraData
+	METHOD b isDisabled ()Z

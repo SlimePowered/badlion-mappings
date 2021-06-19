@@ -1,0 +1,16 @@
+CLASS net/badlion/a/qc net/badlion/a/IBadlionMod
+	METHOD handleForce (Ljava/lang/String;Z)V
+		ARG 1 fieldName
+		ARG 2 value
+	METHOD onEvent onGameEvent (Lnet/badlion/a/eo;)V
+		ARG 1 event
+	METHOD registerEvent (Lnet/badlion/a/ep;)V
+		ARG 1 event
+	METHOD setEnabled (Z)V
+		ARG 1 enabled
+	METHOD setFavorite (Z)V
+		ARG 1 favorite
+	METHOD setForceDisabled (Z)V
+		ARG 1 forceDisabled
+	METHOD setForceEnabled (Z)V
+		ARG 1 forceEnabled
