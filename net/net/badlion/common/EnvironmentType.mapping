@@ -1,0 +1,7 @@
+CLASS net/badlion/a/DV net/badlion/common/EnvironmentType
+	COMMENT Provides the current environment the game has ben launched in.
+	COMMENT PRODUCTION: Most likely launched via the Badlion Launcher
+	COMMENT INSIDER: Most likely launched via the Badlion Launcher. Account has access to "Insider" features.
+	COMMENT TEST: Most likely launched via a development environment.
+	COMMENT
+	COMMENT @author ChachyDev
