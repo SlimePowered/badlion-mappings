@@ -1,0 +1,6 @@
+CLASS net/badlion/a/Em net/badlion/common/CosmeticType
+	METHOD <init> (Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;II)V
+		ARG 3 name
+		ARG 4 iconName
+		ARG 5 sizeX
+		ARG 6 sizeY

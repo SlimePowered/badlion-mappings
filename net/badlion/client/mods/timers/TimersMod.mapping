@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 CLASS net/badlion/a/BK net/badlion/client/mods/timers/TimersMod
+=======
+CLASS net/badlion/a/BK net/badlion/common/TimersMod
+>>>>>>> parent of 84f45b1 (Organise mappings)
