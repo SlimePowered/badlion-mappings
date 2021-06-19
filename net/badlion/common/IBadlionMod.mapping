@@ -1,4 +1,4 @@
-CLASS net/badlion/a/qc net/badlion/a/IBadlionMod
+CLASS net/badlion/a/qc net/badlion/common/IBadlionMod
 	METHOD handleForce (Ljava/lang/String;Z)V
 		ARG 1 fieldName
 		ARG 2 value

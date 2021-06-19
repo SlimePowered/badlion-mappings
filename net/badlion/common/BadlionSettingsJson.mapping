@@ -1,4 +1,4 @@
-CLASS net/badlion/a/dr net/badlion/a/BadlionSettingsJson
+CLASS net/badlion/a/dr net/badlion/common/BadlionSettingsJson
 	METHOD a getLatestPatchNotesRead ()Ljava/lang/String;
 	METHOD a load (Ljava/io/File;)V
 	METHOD a setLatestPatchNotesRead (Ljava/lang/String;)V
