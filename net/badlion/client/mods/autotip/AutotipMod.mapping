@@ -1,4 +1,4 @@
-CLASS net/badlion/a/qG net/badlion/common/AutotipMod
+CLASS net/badlion/a/qG net/badlion/client/mods/autotip/AutotipMod
 	FIELD a LOGGER Lorg/apache/logging/log4j/Logger;
 	FIELD c badlionMinecraftVersion Lnet/badlion/a/th;
 	FIELD d gson Lcom/google/gson/Gson;

@@ -1,4 +1,4 @@
-CLASS net/badlion/a/eo net/badlion/common/GameEvent
+CLASS net/badlion/a/eo net/badlion/client/events/GameEvent
 	FIELD a event Lnet/badlion/a/ep;
 	FIELD b isCancelled Z
 	METHOD <init> (Lnet/badlion/a/ep;)V
