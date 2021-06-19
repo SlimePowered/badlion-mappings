@@ -1,0 +1,2 @@
+CLASS net/badlion/a/bG net/badlion/client/asm/optifine/OptifineShaderVisitor
+	FIELD b isConfigAntialiasingLevelAvailable Z

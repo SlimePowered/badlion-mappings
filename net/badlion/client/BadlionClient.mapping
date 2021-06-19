@@ -1,4 +1,4 @@
-CLASS net/badlion/a/dc net/badlion/common/BadlionClient
+CLASS net/badlion/a/dc net/badlion/client/BadlionClient
 	FIELD G playerVisManager Lnet/badlion/a/nV;
 	FIELD K badlionSettingsJson Lnet/badlion/a/dr;
 	FIELD a gson Lcom/google/gson/Gson;

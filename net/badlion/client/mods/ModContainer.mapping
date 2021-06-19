@@ -1,4 +1,4 @@
-CLASS net/badlion/a/Gt net/badlion/common/ModContainer
+CLASS net/badlion/a/Gt net/badlion/client/mods/ModContainer
 	METHOD <init> (Z)V
 		ARG 1 disabled
 	METHOD a getExtraData ()Lcom/google/gson/JsonObject;
