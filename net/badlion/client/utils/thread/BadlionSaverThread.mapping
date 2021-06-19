@@ -1,5 +1,0 @@
-CLASS net/badlion/a/dd net/badlion/client/utils/thread/BadlionSaverThread
-	FIELD a client Lnet/badlion/a/dc;
-	METHOD <init> (Lnet/badlion/a/dc;Ljava/lang/String;)V
-		ARG 1 client
-		ARG 2 threadName

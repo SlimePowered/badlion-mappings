@@ -1,9 +1,0 @@
-CLASS net/badlion/a/eo net/badlion/client/event/GameEvent
-	FIELD a event Lnet/badlion/a/ep;
-	FIELD b isCancelled Z
-	METHOD <init> (Lnet/badlion/a/ep;)V
-		ARG 1 event
-	METHOD a getEvent ()Lnet/badlion/a/ep;
-	METHOD a setCancelled (Z)V
-		ARG 1 isCancelled
-	METHOD b isCancelled ()Z

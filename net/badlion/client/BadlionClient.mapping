@@ -1,9 +1,0 @@
-CLASS net/badlion/a/dc net/badlion/client/BadlionClient
-	FIELD G playerVisManager Lnet/badlion/a/nV;
-	FIELD K badlionSettingsJson Lnet/badlion/a/dr;
-	FIELD a gson Lcom/google/gson/Gson;
-	FIELD b gson1 Lcom/google/gson/Gson;
-	METHOD a debug (Ljava/lang/String;)V
-		ARG 0 debug
-	METHOD k getBadlionMinecraftVersion ()Lnet/badlion/a/DZ;
-	METHOD m getSettingsJson ()Lnet/badlion/a/dr;
