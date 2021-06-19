@@ -1,0 +1,3 @@
+CLASS net/badlion/a/qG net/badlion/a/AutotipMod
+	FIELD a LOGGER Lorg/apache/logging/log4j/Logger;
+	FIELD c badlionMinecraftVersion Lnet/badlion/a/th;
