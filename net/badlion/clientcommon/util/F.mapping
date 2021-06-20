@@ -1,0 +1,3 @@
+CLASS net/badlion/clientcommon/util/F
+	METHOD a renderCentered (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;)V
+	METHOD b render (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;)V
