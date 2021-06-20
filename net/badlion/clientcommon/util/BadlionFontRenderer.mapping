@@ -5,7 +5,10 @@ CLASS net/badlion/clientcommon/util/d net/badlion/clientcommon/util/BadlionFontR
 	FIELD f fontData0 Lnet/badlion/a/pp;
 	FIELD g fontData1 Lnet/badlion/a/pp;
 	FIELD h fontData2 Lnet/badlion/a/pp;
+	METHOD a getCharIndex (CLnet/badlion/clientcommon/util/d$a;)I
+		ARG 2 type
 	METHOD a render (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;)V
 	METHOD a render (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;Z)V
-	METHOD a render (Ljava/lang/String;ILnet/badlion/clientcommon/util/d$a;)I
+	METHOD b (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;ZZ)V
+		ARG 1 index
 	CLASS a TextType
