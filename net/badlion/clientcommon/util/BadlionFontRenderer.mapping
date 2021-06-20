@@ -9,6 +9,8 @@ CLASS net/badlion/clientcommon/util/d net/badlion/clientcommon/util/BadlionFontR
 		ARG 2 type
 	METHOD a render (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;)V
 	METHOD a render (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;Z)V
+	METHOD a (Lnet/badlion/clientcommon/util/d$a;Z)Ljava/util/Map;
+		ARG 1 textType
 	METHOD b (IILjava/lang/String;ILnet/badlion/clientcommon/util/d$a;ZZ)V
 		ARG 1 index
 	CLASS a TextType
