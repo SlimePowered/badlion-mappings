@@ -1,0 +1,5 @@
+CLASS net/badlion/a/vR net/badlion/client/mods/replaymod/utils/ProtocolVersion
+	METHOD <init> (Ljava/lang/String;ILjava/lang/String;II)V
+		ARG 3 versionString
+		ARG 4 protocolVersion
+		ARG 5 fileFormatVersion
