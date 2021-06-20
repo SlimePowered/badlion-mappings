@@ -1,5 +1,8 @@
 CLASS net/badlion/a/mY
+	FIELD B options Ljava/util/List;
 	FIELD w mod Lnet/badlion/a/qc;
 	METHOD <init> (Lnet/badlion/a/mZ;Ljava/lang/String;Ljava/lang/String;Lnet/badlion/a/qc;)V
 		ARG 2 text
 		ARG 4 mod
+	METHOD a addOption (ILnet/badlion/a/nu;)Lnet/badlion/a/nu;
+	METHOD b addOption (Lnet/badlion/a/nu;)Lnet/badlion/a/nu;

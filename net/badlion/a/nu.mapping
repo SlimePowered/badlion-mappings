@@ -1,0 +1,6 @@
+CLASS net/badlion/a/nu
+	FIELD c listenToClickEvents Z
+	FIELD t passAllClickEvents Z
+	METHOD <init> (ZZZZ)V
+		ARG 1 listenToClickEvents
+		ARG 4 passAllClickEvents
