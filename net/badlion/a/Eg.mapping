@@ -1,0 +1,8 @@
+CLASS net/badlion/a/Eg
+	METHOD <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;J)V
+		ARG 1 senderUuid
+		ARG 2 message
+		ARG 3 channel
+		ARG 4 type
+		ARG 5 messageId
+		ARG 6 date

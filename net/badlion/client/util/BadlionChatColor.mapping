@@ -1,0 +1,13 @@
+CLASS net/badlion/a/pu net/badlion/client/util/BadlionChatColor
+	METHOD <init> (Ljava/lang/String;ILjava/lang/String;CI)V
+		ARG 3 name
+		ARG 4 formattingCode
+		ARG 5 colorIndex
+	METHOD <init> (Ljava/lang/String;ILjava/lang/String;CZII)V
+		ARG 3 name
+		ARG 4 formattingCode
+		ARG 5 fancyStyling
+		ARG 6 colorIndex
+		ARG 7 color
+	METHOD func_175745_c clean (Ljava/lang/String;)Ljava/lang/String;
+		ARG 0 color
