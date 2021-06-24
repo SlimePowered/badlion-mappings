@@ -1,0 +1,3 @@
+CLASS k net/badlion/client/command/IBadlionCommand
+	METHOD c getName ()Ljava/lang/String;
+	METHOD c getUsage (Lm;)Ljava/lang/String;
