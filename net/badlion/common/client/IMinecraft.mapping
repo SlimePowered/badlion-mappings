@@ -1,0 +1,41 @@
+CLASS net/badlion/a/nZ net/badlion/common/client/IMinecraft
+	METHOD B isRenderViewEntityPlayer ()Z
+	METHOD C loadRenderers ()V
+	METHOD D refreshResources ()V
+	METHOD E shutdown ()V
+	METHOD F isGameFocused ()Z
+	METHOD G getBadlionEntity ()Lnet/badlion/a/oc;
+	METHOD H setDisplayListEntitiesDirty ()V
+	METHOD L getAssets ()Ljava/io/File;
+	METHOD M getMouseX ()I
+	METHOD N getMouseY ()I
+	METHOD O getEventDWheel ()I
+	METHOD Q getTemplate ()Lnet/badlion/a/pV;
+	METHOD Z getCurrentLocation ()Ljava/lang/String;
+	METHOD a isFullScreen ()Z
+	METHOD a playSound (FFF)V
+	METHOD a isMouseButtonDown (I)Z
+		ARG 1 button
+	METHOD a setCursorPosition (II)V
+		ARG 1 newX
+		ARG 2 newY
+	METHOD a openFile (Ljava/io/File;)V
+	METHOD a runTaskOnMinecraftThread (Ljava/lang/Runnable;)V
+	METHOD a browse (Ljava/lang/String;)V
+		ARG 1 url
+	METHOD a formatString (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+		ARG 1 keyName
+	METHOD a browse (Ljava/net/URI;)V
+		ARG 1 uri
+	METHOD a setRepeatEvents (Z)V
+		ARG 1 enabled
+	METHOD aa getOnlinePlayers ()I
+	METHOD c getGameDirectory ()Ljava/io/File;
+	METHOD c getButtonString (I)Ljava/lang/String;
+		ARG 1 button
+	METHOD d getDisplayWidth ()I
+	METHOD e getDisplayHeight ()I
+	METHOD g getProfile ()Lnet/badlion/a/oJ;
+	METHOD h getFPS ()I
+	METHOD q isUnicode ()Z
+	METHOD z getSystemTime ()J

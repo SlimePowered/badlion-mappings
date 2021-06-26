@@ -1,0 +1,3 @@
+CLASS net/badlion/a/HJ net/badlion/client/minecraft/V1_8_9Minecraft
+	FIELD a minecraftInstance Lave;
+	FIELD r renderManager Lnet/badlion/a/oy;
