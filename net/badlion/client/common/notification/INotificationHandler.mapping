@@ -1,0 +1,4 @@
+CLASS net/badlion/a/ov net/badlion/client/common/notification/INotificationHandler
+	METHOD a addNotification (JLjava/lang/String;Lnet/badlion/a/CQ;Ljava/lang/String;)V
+	METHOD a addNotification (JLjava/lang/String;Lnet/badlion/a/CQ;Ljava/lang/String;Lnet/badlion/a/CP;Ljava/lang/String;Z)V
+	METHOD a addNotification (JLjava/lang/String;Lnet/badlion/a/CQ;Ljava/lang/String;Z)V

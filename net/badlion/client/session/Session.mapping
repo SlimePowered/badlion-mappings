@@ -1,4 +1,4 @@
-CLASS net/badlion/a/oJ net/badlion/client/session/Profile
+CLASS net/badlion/a/oJ net/badlion/client/session/Session
 	METHOD a setToken (Ljava/lang/String;)V
 		ARG 1 token
 	METHOD c getUUID ()Ljava/util/UUID;

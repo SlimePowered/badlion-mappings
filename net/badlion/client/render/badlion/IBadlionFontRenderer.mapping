@@ -1,0 +1,21 @@
+CLASS net/badlion/a/ou net/badlion/client/render/badlion/IBadlionFontRenderer
+	METHOD a getFontHeight ()I
+	METHOD a getCharWidth (C)I
+		ARG 1 c
+	METHOD a loadGlyphTexture (I)V
+		ARG 1 glyphTexture
+	METHOD a getStringWidth (Ljava/lang/String;)I
+		ARG 1 string
+	METHOD a drawString (Ljava/lang/String;FFIZ)I
+		ARG 1 text
+	METHOD a listFormattedStringToWidth (Ljava/lang/String;I)Ljava/util/List;
+	METHOD a drawString (Ljava/lang/String;III)I
+		ARG 1 text
+	METHOD a drawString (Ljava/lang/String;IILnet/badlion/a/Ej;)I
+	METHOD a drawString (Ljava/lang/String;IILnet/badlion/a/Ej;Z)I
+	METHOD b getPosX ()F
+	METHOD b drawStringWithShadow (Ljava/lang/String;III)I
+	METHOD c getPosY ()F
+	METHOD d getGlyphWidth ()[B
+	METHOD e bindTexture ()V
+	METHOD f getOffsetBold ()F

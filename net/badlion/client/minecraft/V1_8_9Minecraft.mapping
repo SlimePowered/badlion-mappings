@@ -1,3 +1,15 @@
 CLASS net/badlion/a/HJ net/badlion/client/minecraft/V1_8_9Minecraft
+	FIELD A skinManager Lnet/badlion/a/oC;
+	FIELD C pinger Lbdg;
+	FIELD D badlionSpray Ljy;
+	FIELD E bassNote Ljy;
+	FIELD F randomOrb Ljy;
 	FIELD a minecraftInstance Lave;
+	FIELD e currentSession Lnet/badlion/a/oJ;
+	FIELD j fontRenderer Lnet/badlion/a/Ib;
 	FIELD r renderManager Lnet/badlion/a/oy;
+	FIELD u notificationHandler Lnet/badlion/a/Ic;
+	FIELD y frameBuffer Lnet/badlion/a/oP;
+	FIELD z screenshotHandler Lnet/badlion/a/pF;
+	METHOD <init> (Lave;)V
+		ARG 1 minecraft

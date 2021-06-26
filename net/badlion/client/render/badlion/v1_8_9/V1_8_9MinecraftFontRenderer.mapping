@@ -1,0 +1,4 @@
+CLASS net/badlion/a/Ib net/badlion/client/render/badlion/v1_8_9/V1_8_9MinecraftFontRenderer
+	FIELD a fontRenderer Lavn;
+	METHOD <init> (Lavn;)V
+		ARG 1 fontRenderer
